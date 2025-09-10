@@ -31,4 +31,4 @@ smartshop/
 └── db.sqlite3
 
 ## 📌 Status
-In Progress (to be completed by May 2025)
+In Progress (to be completed by 2025)
